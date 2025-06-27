@@ -102,7 +102,7 @@ The full technical whitepaper (PDF) detailing the theory, algorithms, and math i
 > **All rights reserved.**  
 > This work is the exclusive intellectual property of **Matin Mojazab Sanei**.  
 > Any use, reproduction, or adaptation is strictly prohibited without explicit written consent.  
-> See [`LICENSE`](./LICENSE) for details.
+> See LICENSE for details.
 
 ---
 
