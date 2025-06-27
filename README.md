@@ -1,5 +1,15 @@
 # XCR-Context-Extension 🚀
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🚫%20NOT%20OPEN%20SOURCE%20🚫-Intellectual%20Property-red?style=for-the-badge&logo=github" alt="Protected IP">
+  <br/>
+  <strong>XCR Loop is a protected innovation. All rights reserved.</strong><br/>
+  Usage, modification, or distribution without <u>explicit permission</u> from the author is <b>strictly prohibited</b>.
+</p>
+
+
+
+
 **A Memory-Conscious Architecture for Unbounded Reasoning in Offline LLMs**
 
 ---
